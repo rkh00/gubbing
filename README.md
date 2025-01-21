@@ -1,2 +1,2 @@
 # gubbing
-Ting jeg er veldig gubbete på
+**Ting jeg er veldig gubbete på.**

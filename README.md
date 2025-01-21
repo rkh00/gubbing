@@ -5,4 +5,5 @@
 - Majorstu*a*, ikke Majorstu*en*. 
 - Julepynt, julesanger, julefilmer osv. kan dras frem først etter 1. des eller første søndag i advent og må fjernes senest første helg etter nyttår.
 - Det heter *AI*, ikke *KI*.
+- "_Av_ en grunn", ikke "_for_ en grunn".
 - m.fl.

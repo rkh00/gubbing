@@ -7,4 +7,9 @@
 - Det heter *AI*, ikke *KI*.
 - "_Av_ en grunn", ikke "_for_ en grunn".
 - "Simpelt" er sannsynligvis ikke ordet du er ute etter.
+- "I år", "i orden", "i dag" osv., ikke "iår", "iorden" og "idag".
+- "_Om_ gangen", ikke "_av_ gangen".
+- En (norsk) regjering får ikke et nytt tall dersom den sitter kontinuerlig. Solberg-regjeringen som satt i perioden 2013-2021 heter Erna Solbergs regjering*. Det var aldri noe som het Solberg II, Solberg III, Solberg IV osv. i den tidsrammen.
 - m.fl.
+
+*pre-Stortingsvalget 2025

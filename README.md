@@ -10,7 +10,7 @@
 - "I år", "i orden", "i dag" osv., ikke "iår", "iorden" og "idag".
 - "_Om_ gangen", ikke "_av_ gangen".
 - En (norsk) regjering får ikke et nytt tall i den perioden den sitter kontinuerlig. Solberg-regjeringen som satt i perioden 2013-2021 heter Erna Solbergs regjering (muligens Erna Solbergs første regjering etter Stortingsvalget 2025). Det var aldri noe som het Solberg II, Solberg III, Solberg IV osv. i den tidsrammen.
-- I latinske lånord som slutter på *-um* (auditorium, jubileum, museum osv.) erstattes _-um_-suffikset med _-er_ i flertall: Auditori*er*, jubile*er*, muse*er*.
+- På norsk bøyes latinske lånord som slutter på *-um* (auditorium, jubileum, museum osv.) ved at _-um_-suffikset erstattes med _-et_/_-er_/_-ene_. Eksempel: Auditorium, auditori*et*, auditori*er*, auditori*ene*.
 - I samme duren: Språket heter latin, ikke latin*sk*.
 - Grunstoff nr. 92 heter uran på norsk, ikke uran*ium*.
 - Nei, det er ikke _obligatorisk_ å blinke til venstre før en rundkjøring. _Men det er faen meg en god idé likevel!_

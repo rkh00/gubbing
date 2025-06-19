@@ -14,4 +14,5 @@
 - I samme duren: Språket heter latin, ikke latin*sk*.
 - Grunstoff nr. 92 heter uran på norsk, ikke uran*ium*.
 - Nei, det er ikke _obligatorisk_ å blinke til venstre før en rundkjøring. _Men det er faen meg en god idé likevel!_
+- Det heter _plast_, ikke _plastikk_.
 - m.fl.
